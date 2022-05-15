@@ -1,0 +1,9 @@
+﻿  MainForm.cpp
+D:\Documents\CSIT\2ndSem\oop\Projects\HotelManagementSystem\HotelManagementSystem\MainForm.h(231,20): warning C4101: 'ex': unreferenced local variable
+  program.cpp
+D:\Documents\CSIT\2ndSem\oop\Projects\HotelManagementSystem\HotelManagementSystem\LoginForm.h(222,19): warning C4101: 'e': unreferenced local variable
+D:\Documents\CSIT\2ndSem\oop\Projects\HotelManagementSystem\HotelManagementSystem\MainForm.h(231,20): warning C4101: 'ex': unreferenced local variable
+D:\Documents\CSIT\2ndSem\oop\Projects\HotelManagementSystem\HotelManagementSystem\RegisterForm.h(340,21): warning C4101: 'ex': unreferenced local variable
+  Generating Code...
+  loginForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  HotelManagementSystem.vcxproj -> D:\Documents\CSIT\2ndSem\oop\Projects\HotelManagementSystem\x64\Debug\HotelManagementSystem.exe
